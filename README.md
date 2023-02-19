@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Feedback App Tutorial Project
+
+This project was done following along with a learn React tutorial. It's not an original project but was very good to create in order to learn the concepts of React. Keeping this in my GitHub so that I can refer to it in the future if needed.
+
+Feel free to test it out and see what it does!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
